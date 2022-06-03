@@ -56,16 +56,16 @@
 //	return 0;
 //}
 
-//int main()
-//{
-//    //int i = KMP("ababcabcacbab", "abcac");
-//    //printf("%d", i);
-//    int i = myKMP("ababcabcdabcde", "abcd", 0);
-//    int j = myKMP("ababcabcdabcde", "abcdf", 0);
-//    int k = myKMP("ababcabcdabcde", "ab", 0);
-//    printf("%d %d %d\n", i, j, k);
-//    return 0;
-//}
+int main()
+{
+    //int i = KMP("ababcabcacbab", "abcac");
+    //printf("%d", i);
+    int i = myKMP("ababcabcdabcde", "abcd", 0);
+    int j = myKMP("ababcabcdabcde", "abcdf", 0);
+    int k = myKMP("ababcabcdabcde", "ab", 0);
+    printf("%d %d %d\n", i, j, k);
+    return 0;
+}
 
 //int main()
 //{
@@ -157,12 +157,12 @@
 //	return 0;
 //}
 
-int main()
-{
-	//char arr[20] = { 0 };
-	//memset(arr, 'x', 10);
-	int arr[10] = { 1,2,3,4,5,6,7,8,9,10 };
-	memset(arr, 0, 10);
-
-	return 0;
-}
+//int main()
+//{
+//	//char arr[20] = { 0 };
+//	//memset(arr, 'x', 10);
+//	int arr[10] = { 1,2,3,4,5,6,7,8,9,10 };
+//	memset(arr, 0, 10);
+//
+//	return 0;
+//}

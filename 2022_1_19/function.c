@@ -187,7 +187,7 @@ int KMP(char* S, char* T) {
 void myNext(const char* sub, int* next, int len_sub)
 {
 	next[0] = -1;
-	if (len_sub == 1)
+	if (len_sub < 2)
 	{
 		return;
 	}
