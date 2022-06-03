@@ -1,1 +1,2 @@
 C:\Users\11195\source\repos\2022_3_18\Debug\2022_3_18.exe
+C:\Users\11195\source\c_programs\2022_3_18\Debug\2022_3_18.exe
